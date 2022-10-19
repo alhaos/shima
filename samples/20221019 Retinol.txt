@@ -1,0 +1,388 @@
+ID#	1
+Name	Retinol
+	Data Filename	Sample Name	Sample ID	Conc.	Std. Conc.	Ret. Time	Area	Accuracy[%]	Height	Area%	Height%	Level#	Cal. Point
+1	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 01.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+2	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 02.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+3	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 03.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+4	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 04.lcd	STD 1	STD 1	3.101	-----	1.458	1805	-----	369	5.867	6.012	0	-----
+5	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 05.lcd	STD 2	STD 2	13.271	-----	1.465	6349	-----	1355	14.256	16.426	0	-----
+6	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 06.lcd	STD 3	STD 3	7.026	-----	1.465	3558	-----	762	10.684	11.542	0	-----
+7	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 07.lcd	STD 4	STD 4	65.956	-----	1.464	34318	-----	7491	25.018	31.375	0	-----
+8	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 08.lcd	STD 5	STD 5	241.500	-----	1.463	143608	-----	31336	29.372	37.586	0	-----
+9	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 09.lcd	STD 6	STD 6	450.233	-----	1.464	281496	-----	61477	30.660	39.280	0	-----
+10	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 10.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+11	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 11.lcd	QCLOW	QCLOW	22.643	-----	1.468	9885	-----	2143	20.661	24.402	0	-----
+12	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 12.lcd	QCHIGH	QCHIGH	119.332	-----	1.466	60663	-----	13226	36.575	44.625	0	-----
+13	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 13.lcd	1	2228401569	102.714	-----	1.473	65264	-----	15559	37.780	44.137	0	-----
+14	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 14.lcd	2	2228401571	49.643	-----	1.467	36735	-----	8379	21.661	27.626	0	-----
+15	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 15.lcd	3	2228401573	78.688	-----	1.469	53085	-----	12062	31.239	37.125	0	-----
+16	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 16.lcd	4	2228401578	47.263	-----	1.466	34735	-----	7826	25.471	30.673	0	-----
+17	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 17.lcd	5	2228401582	67.294	-----	1.464	50687	-----	11227	36.195	40.653	0	-----
+18	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 18.lcd	6	2228401584	78.349	-----	1.463	54204	-----	12441	27.184	34.047	0	-----
+19	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 19.lcd	7	2228401596	49.918	-----	1.462	34614	-----	7710	20.087	25.709	0	-----
+20	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 20.lcd	8	2228401597	74.743	-----	1.464	57243	-----	12711	33.554	40.303	0	-----
+21	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 21.lcd	9	2228401718	72.911	-----	1.463	45152	-----	9896	39.943	44.127	0	-----
+22	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 22.lcd	10	2228401789	56.786	-----	1.464	40856	-----	8983	36.102	40.527	0	-----
+23	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 23.lcd	11	2228401795	49.342	-----	1.463	34116	-----	7477	32.686	36.965	0	-----
+24	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 24.lcd	12	2228401807	49.727	-----	1.463	38012	-----	8420	27.612	32.465	0	-----
+25	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 25.lcd	13	2228401830	106.133	-----	1.466	64744	-----	14529	39.632	45.125	0	-----
+26	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 26.lcd	14	2228401851	74.235	-----	1.466	55295	-----	12446	34.403	40.799	0	-----
+27	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 27.lcd	15	2228401898	64.933	-----	1.464	46443	-----	10335	34.271	38.963	0	-----
+28	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 28.lcd	16	2228401949	76.356	-----	1.463	54854	-----	12147	40.896	45.402	0	-----
+29	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 29.lcd	17	2228402138	65.871	-----	1.464	47269	-----	10507	36.397	41.242	0	-----
+30	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 30.lcd	18	2228402143	131.539	-----	1.465	97002	-----	21304	42.458	48.896	0	-----
+31	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 31.lcd	19	2228402168	68.491	-----	1.464	30246	-----	6664	35.943	40.547	0	-----
+32	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 32.lcd	20	2228402336	62.858	-----	1.462	41249	-----	9020	25.724	32.005	0	-----
+33	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 33.lcd	21	2228402344	26.104	-----	1.462	16803	-----	3720	17.397	21.446	0	-----
+34	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 34.lcd	22	2228402361	21.239	-----	1.463	15995	-----	3617	19.051	22.658	0	-----
+35	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 35.lcd	23	2228402466	66.557	-----	1.463	49653	-----	10980	37.690	42.498	0	-----
+36	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 36.lcd	24	2228402550	83.504	-----	1.466	55901	-----	12448	37.830	43.776	0	-----
+37	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 37.lcd	25	2228402566	50.468	-----	1.468	33198	-----	7369	32.015	35.731	0	-----
+38	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 38.lcd	26	2228402583	48.177	-----	1.462	33006	-----	7392	29.593	34.225	0	-----
+39	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 39.lcd	27	2228402599	60.101	-----	1.465	47286	-----	10507	31.655	36.630	0	-----
+40	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 40.lcd	28	2228500436	32.692	-----	1.464	22680	-----	5093	21.810	25.818	0	-----
+41	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 41.lcd	29	2228500504	48.070	-----	1.463	34199	-----	7544	29.561	33.046	0	-----
+42	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 42.lcd	30	2228500517	43.364	-----	1.461	30659	-----	6849	27.654	32.019	0	-----
+43	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 43.lcd	31	2228500552	28.232	-----	1.462	21695	-----	4857	18.672	23.299	0	-----
+44	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 44.lcd	32	2228500563	66.058	-----	1.463	47148	-----	10434	30.280	35.995	0	-----
+45	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 45.lcd	33	2228500587	37.587	-----	1.462	25069	-----	5726	26.698	31.744	0	-----
+46	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 46.lcd	34	2228500614	80.317	-----	1.462	62498	-----	13780	36.682	42.140	0	-----
+47	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 47.lcd	35	2228500685	50.100	-----	1.468	33941	-----	7533	30.173	34.434	0	-----
+48	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 48.lcd	36	2228500801	113.353	-----	1.467	87142	-----	19256	53.835	57.429	0	-----
+49	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 49.lcd	37	2228500811	65.317	-----	1.464	46664	-----	10256	41.298	45.140	0	-----
+50	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 50.lcd	38	2228500818	80.916	-----	1.463	56310	-----	12412	41.890	47.153	0	-----
+51	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 51.lcd	39	2228500834	61.019	-----	1.464	46141	-----	10243	40.436	44.738	0	-----
+52	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 52.lcd	40	2228500837	166.065	-----	1.464	102720	-----	22699	55.741	59.677	0	-----
+53	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 53.lcd	41	2228500900	62.960	-----	1.462	47698	-----	10599	34.147	39.433	0	-----
+54	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 54.lcd	42	2228501094	72.204	-----	1.470	47611	-----	12039	34.649	41.669	0	-----
+55	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 55.lcd	43	2228501168	39.933	-----	1.464	27344	-----	5972	31.712	35.017	0	-----
+56	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 56.lcd	44	2228501172	70.483	-----	1.465	51075	-----	11159	32.567	35.893	0	-----
+57	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 57.lcd	45	2228501196	62.880	-----	1.462	44597	-----	9780	33.008	37.201	0	-----
+58	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 58.lcd	46	2228501588	78.325	-----	1.464	52263	-----	11813	30.181	37.340	0	-----
+59	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 59.lcd	47	2228501609	128.355	-----	1.469	89941	-----	20651	41.801	48.176	0	-----
+60	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 60.lcd	48	2228501613	54.159	-----	1.468	39865	-----	8704	35.912	39.454	0	-----
+61	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 61.lcd	49	2228501651	102.938	-----	1.464	75517	-----	16523	51.013	54.774	0	-----
+62	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 62.lcd	50	2228501678	77.465	-----	1.464	52613	-----	11592	42.358	47.291	0	-----
+63	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 63.lcd	51	2228501689	173.670	-----	1.462	120505	-----	26325	50.717	55.998	0	-----
+64	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 64.lcd	52	2228501720	58.522	-----	1.462	30705	-----	6711	35.698	39.713	0	-----
+65	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 65.lcd	53	2228501732	43.380	-----	1.463	27690	-----	6199	30.179	34.236	0	-----
+66	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 66.lcd	54	2228501746	127.885	-----	1.464	89026	-----	19882	39.245	45.128	0	-----
+67	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 67.lcd	55	2228501791	82.611	-----	1.463	61613	-----	13632	39.363	45.145	0	-----
+68	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 68.lcd	56	2228501844	88.242	-----	1.462	63987	-----	14363	33.876	41.781	0	-----
+69	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 69.lcd	57	2228501913	103.986	-----	1.465	57180	-----	12635	46.296	50.279	0	-----
+70	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 70.lcd	58	2228501933	41.887	-----	1.462	28149	-----	6410	19.144	25.362	0	-----
+71	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 71.lcd	59	2228501940	98.262	-----	1.467	66597	-----	14894	27.502	34.248	0	-----
+72	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 72.lcd	60	2228502058	88.837	-----	1.464	67240	-----	14994	26.749	34.776	0	-----
+73	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 73.lcd	61	2228502139	42.846	-----	1.464	32135	-----	7094	12.606	18.539	0	-----
+74	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 74.lcd	62	2228502226	66.098	-----	1.464	44479	-----	9999	34.096	39.588	0	-----
+75	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 75.lcd	63	2228502341	88.863	-----	1.464	49369	-----	10943	36.902	42.544	0	-----
+76	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 76.lcd	64	2228502501	70.781	-----	1.469	39943	-----	9075	30.554	36.851	0	-----
+77	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 77.lcd	65	2228502512	116.736	-----	1.466	71266	-----	15964	34.574	42.736	0	-----
+78	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 78.lcd	66	2228502620	96.053	-----	1.464	60934	-----	13420	46.943	51.320	0	-----
+79	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 79.lcd	67	2228502661	122.513	-----	1.465	76796	-----	17133	39.320	44.991	0	-----
+80	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 80.lcd	68	2228502722	62.102	-----	1.468	32364	-----	7183	33.685	38.743	0	-----
+81	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 81.lcd	69	2228502730	70.741	-----	1.464	47305	-----	10529	34.453	40.492	0	-----
+82	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 82.lcd	70	2228600177	66.896	-----	1.463	45054	-----	9927	37.173	41.013	0	-----
+83	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 83.lcd	71	2228600291	50.403	-----	1.465	27827	-----	6129	31.366	34.751	0	-----
+84	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 84.lcd	72	2228600300	27.185	-----	1.465	16112	-----	3643	19.146	22.446	0	-----
+85	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 85.lcd	QCLOW	QCLOW	23.669	-----	1.466	11666	-----	2363	21.531	24.448	0	-----
+86	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 86.lcd	QCHIGH	QCHIGH	117.754	-----	1.466	63349	-----	13902	36.194	44.311	0	-----
+87	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 87.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+88	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 04.lcd	STD 1	STD 1	3.773	3	1.458	2034	125.8	411	6.333	6.573	1	*
+89	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 05.lcd	STD 2	STD 2	13.530	15	1.461	6068	90.2	1301	14.284	16.725	2	*
+90	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 06.lcd	STD 3	STD 3	45.056	45	1.465	22666	100.1	4955	23.055	28.507	3	*
+91	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 07.lcd	STD 4	STD 4	81.766	75	1.464	39903	109.0	8721	26.350	33.167	4	*
+92	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 08.lcd	STD 5	STD 5	222.729	225	1.463	112153	99.0	26496	28.056	37.629	5	*
+93	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 09.lcd	STD 6	STD 6	371.147	375	1.464	220074	99.0	55428	29.190	39.795	6	*
+
+ID#	2
+Name	Internal Standard
+	Data Filename	Sample Name	Sample ID	Conc.	Std. Conc.	Ret. Time	Area	Accuracy[%]	Height	Area%	Height%	Level#	Cal. Point
+1	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 01.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+2	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 02.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+3	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 03.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+4	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 04.lcd	STD 1	STD 1	0.000	-----	2.130	28954	-----	5764	94.133	93.988	0	-----
+5	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 05.lcd	STD 2	STD 2	0.000	-----	2.132	23804	-----	4765	53.450	57.757	0	-----
+6	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 06.lcd	STD 3	STD 3	0.000	-----	2.134	25199	-----	5031	75.661	76.192	0	-----
+7	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 07.lcd	STD 4	STD 4	0.000	-----	2.131	25889	-----	5155	18.873	21.594	0	-----
+8	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 08.lcd	STD 5	STD 5	0.000	-----	2.129	29588	-----	5868	6.052	7.038	0	-----
+9	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 09.lcd	STD 6	STD 6	0.000	-----	2.130	31109	-----	6192	3.388	3.956	0	-----
+10	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 10.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+11	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 11.lcd	QCLOW	QCLOW	0.000	-----	2.135	21722	-----	4575	45.401	52.078	0	-----
+12	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 12.lcd	QCHIGH	QCHIGH	0.000	-----	2.133	25294	-----	5066	15.250	17.091	0	-----
+13	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 13.lcd	1	2228401569	0.000	-----	2.138	31615	-----	6675	18.301	18.936	0	-----
+14	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 14.lcd	2	2228401571	0.000	-----	2.133	36820	-----	7444	21.710	24.542	0	-----
+15	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 15.lcd	3	2228401573	0.000	-----	2.135	33567	-----	6770	19.753	20.836	0	-----
+16	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 16.lcd	4	2228401578	0.000	-----	2.133	36568	-----	7353	26.815	28.819	0	-----
+17	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 17.lcd	5	2228401582	0.000	-----	2.131	37478	-----	7487	26.762	27.110	0	-----
+18	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 18.lcd	6	2228401584	0.000	-----	2.130	34423	-----	6848	17.264	18.739	0	-----
+19	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 19.lcd	7	2228401596	0.000	-----	2.128	34502	-----	6870	20.022	22.909	0	-----
+20	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 20.lcd	8	2228401597	0.000	-----	2.129	38107	-----	7610	22.337	24.130	0	-----
+21	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 21.lcd	9	2228401718	0.000	-----	2.129	30813	-----	6124	27.259	27.306	0	-----
+22	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 22.lcd	10	2228401789	0.000	-----	2.130	35799	-----	7144	31.633	32.229	0	-----
+23	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 23.lcd	11	2228401795	0.000	-----	2.129	34403	-----	6849	32.961	33.862	0	-----
+24	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 24.lcd	12	2228401807	0.000	-----	2.129	38035	-----	7554	27.629	29.125	0	-----
+25	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 25.lcd	13	2228401830	0.000	-----	2.131	30353	-----	6095	18.580	18.931	0	-----
+26	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 26.lcd	14	2228401851	0.000	-----	2.132	37062	-----	7411	23.059	24.294	0	-----
+27	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 27.lcd	15	2228401898	0.000	-----	2.130	35589	-----	7105	26.261	26.787	0	-----
+28	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 28.lcd	16	2228401949	0.000	-----	2.129	35745	-----	7126	26.649	26.635	0	-----
+29	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 29.lcd	17	2228402138	0.000	-----	2.130	35706	-----	7142	27.493	28.034	0	-----
+30	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 30.lcd	18	2228402143	0.000	-----	2.131	36693	-----	7363	16.060	16.898	0	-----
+31	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 31.lcd	19	2228402168	0.000	-----	2.130	21973	-----	4403	26.112	26.790	0	-----
+32	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 32.lcd	20	2228402336	0.000	-----	2.128	32652	-----	6504	20.363	23.079	0	-----
+33	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 33.lcd	21	2228402344	0.000	-----	2.128	32030	-----	6383	33.162	36.801	0	-----
+34	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 34.lcd	22	2228402361	0.000	-----	2.129	37472	-----	7473	44.632	46.820	0	-----
+35	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 35.lcd	23	2228402466	0.000	-----	2.130	37120	-----	7414	28.177	28.698	0	-----
+36	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 36.lcd	24	2228402550	0.000	-----	2.133	33310	-----	6698	22.541	23.557	0	-----
+37	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 37.lcd	25	2228402566	0.000	-----	2.134	32730	-----	6599	31.564	31.999	0	-----
+38	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 38.lcd	26	2228402583	0.000	-----	2.128	34089	-----	6794	30.563	31.456	0	-----
+39	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 39.lcd	27	2228402599	0.000	-----	2.131	39148	-----	7824	26.207	27.278	0	-----
+40	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 40.lcd	28	2228500436	0.000	-----	2.131	34518	-----	6915	33.195	35.052	0	-----
+41	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 41.lcd	29	2228500504	0.000	-----	2.129	35399	-----	7056	30.599	30.908	0	-----
+42	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 42.lcd	30	2228500517	0.000	-----	2.127	35179	-----	7012	31.730	32.783	0	-----
+43	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 43.lcd	31	2228500552	0.000	-----	2.128	38237	-----	7611	32.908	36.510	0	-----
+44	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 44.lcd	32	2228500563	0.000	-----	2.129	35514	-----	7084	22.808	24.439	0	-----
+45	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 45.lcd	33	2228500587	0.000	-----	2.129	33186	-----	6629	35.343	36.751	0	-----
+46	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 46.lcd	34	2228500614	0.000	-----	2.127	38718	-----	7738	22.725	23.664	0	-----
+47	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 47.lcd	35	2228500685	0.000	-----	2.134	33708	-----	6819	29.966	31.171	0	-----
+48	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 48.lcd	36	2228500801	0.000	-----	2.133	38252	-----	7747	23.631	23.105	0	-----
+49	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 49.lcd	37	2228500811	0.000	-----	2.130	35548	-----	7115	31.460	31.317	0	-----
+50	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 50.lcd	38	2228500818	0.000	-----	2.128	34626	-----	6910	25.759	26.249	0	-----
+51	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 51.lcd	39	2228500834	0.000	-----	2.130	37625	-----	7524	32.973	32.862	0	-----
+52	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 52.lcd	40	2228500837	0.000	-----	2.130	30777	-----	6179	16.701	16.246	0	-----
+53	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 53.lcd	41	2228500900	0.000	-----	2.128	37696	-----	7501	26.986	27.904	0	-----
+54	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 54.lcd	42	2228501094	0.000	-----	2.135	32809	-----	6803	23.877	23.546	0	-----
+55	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 55.lcd	43	2228501168	0.000	-----	2.129	34070	-----	6806	39.513	39.905	0	-----
+56	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 56.lcd	44	2228501172	0.000	-----	2.131	36056	-----	7251	22.990	23.322	0	-----
+57	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 57.lcd	45	2228501196	0.000	-----	2.127	35290	-----	7046	26.119	26.802	0	-----
+58	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 58.lcd	46	2228501588	0.000	-----	2.130	33201	-----	6643	19.173	20.997	0	-----
+59	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 59.lcd	47	2228501609	0.000	-----	2.134	34866	-----	7194	16.204	16.782	0	-----
+60	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 60.lcd	48	2228501613	0.000	-----	2.134	36626	-----	7348	32.994	33.310	0	-----
+61	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 61.lcd	49	2228501651	0.000	-----	2.129	36503	-----	7268	24.658	24.094	0	-----
+62	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 62.lcd	50	2228501678	0.000	-----	2.129	33794	-----	6730	27.207	27.454	0	-----
+63	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 63.lcd	51	2228501689	0.000	-----	2.127	34525	-----	6858	14.531	14.588	0	-----
+64	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 64.lcd	52	2228501720	0.000	-----	2.127	26106	-----	5218	30.351	30.883	0	-----
+65	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 65.lcd	53	2228501732	0.000	-----	2.129	31760	-----	6405	34.616	35.375	0	-----
+66	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 66.lcd	54	2228501746	0.000	-----	2.130	34638	-----	6950	15.269	15.774	0	-----
+67	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 67.lcd	55	2228501791	0.000	-----	2.128	37110	-----	7397	23.708	24.497	0	-----
+68	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 68.lcd	56	2228501844	0.000	-----	2.127	36080	-----	7205	19.102	20.958	0	-----
+69	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 69.lcd	57	2228501913	0.000	-----	2.131	27361	-----	5513	22.153	21.937	0	-----
+70	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 70.lcd	58	2228501933	0.000	-----	2.128	33437	-----	6664	22.741	26.368	0	-----
+71	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 71.lcd	59	2228501940	0.000	-----	2.132	33723	-----	6827	13.926	15.700	0	-----
+72	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 72.lcd	60	2228502058	0.000	-----	2.129	37661	-----	7519	14.982	17.438	0	-----
+73	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 73.lcd	61	2228502139	0.000	-----	2.130	37318	-----	7510	14.640	19.626	0	-----
+74	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 74.lcd	62	2228502226	0.000	-----	2.130	33483	-----	6696	25.667	26.513	0	-----
+75	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 75.lcd	63	2228502341	0.000	-----	2.130	27643	-----	5549	20.662	21.573	0	-----
+76	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 76.lcd	64	2228502501	0.000	-----	2.135	28078	-----	5666	21.479	23.006	0	-----
+77	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 77.lcd	65	2228502512	0.000	-----	2.132	30376	-----	6120	14.737	16.382	0	-----
+78	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 78.lcd	66	2228502620	0.000	-----	2.130	31565	-----	6325	24.318	24.189	0	-----
+79	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 79.lcd	67	2228502661	0.000	-----	2.130	31190	-----	6280	15.969	16.493	0	-----
+80	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 80.lcd	68	2228502722	0.000	-----	2.133	25931	-----	5242	26.989	28.273	0	-----
+81	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 81.lcd	69	2228502730	0.000	-----	2.130	33273	-----	6685	24.233	25.708	0	-----
+82	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 82.lcd	70	2228600177	0.000	-----	2.128	33511	-----	6693	27.649	27.651	0	-----
+83	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 83.lcd	71	2228600291	0.000	-----	2.130	27471	-----	5547	30.964	31.451	0	-----
+84	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 84.lcd	72	2228600300	0.000	-----	2.131	29490	-----	5937	35.043	36.580	0	-----
+85	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 85.lcd	QCLOW	QCLOW	0.000	-----	2.132	24526	-----	5061	45.264	52.366	0	-----
+86	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 86.lcd	QCHIGH	QCHIGH	0.000	-----	2.132	26768	-----	5374	15.294	17.128	0	-----
+87	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 87.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+88	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 04.lcd	STD 1	STD 1	0.000	1	2.130	26827	0.0	5368	83.513	85.797	1	*
+89	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 05.lcd	STD 2	STD 2	0.000	1	2.128	22316	0.0	4451	52.533	57.230	2	*
+90	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 06.lcd	STD 3	STD 3	0.000	1	2.132	25031	0.0	5030	25.461	28.935	3	*
+91	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 07.lcd	STD 4	STD 4	0.000	1	2.130	24282	0.0	4871	16.035	18.523	4	*
+92	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 08.lcd	STD 5	STD 5	0.000	1	2.128	25055	0.0	5305	6.268	7.534	5	*
+93	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 09.lcd	STD 6	STD 6	0.000	1	2.130	29504	0.0	5810	3.913	4.171	6	*
+
+ID#	3
+Name	Alpha Tocopherol
+	Data Filename	Sample Name	Sample ID	Conc.	Std. Conc.	Ret. Time	Area	Accuracy[%]	Height	Area%	Height%	Level#	Cal. Point
+1	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 01.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+2	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 02.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+3	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 03.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+4	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 04.lcd	STD 1	STD 1	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+5	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 05.lcd	STD 2	STD 2	4.464	-----	2.798	7421	-----	1322	16.664	16.028	0	-----
+6	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 06.lcd	STD 3	STD 3	2.584	-----	2.799	4548	-----	810	13.655	12.265	0	-----
+7	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 07.lcd	STD 4	STD 4	21.597	-----	2.797	39048	-----	6923	28.466	28.998	0	-----
+8	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 08.lcd	STD 5	STD 5	80.548	-----	2.795	166438	-----	29340	34.041	35.192	0	-----
+9	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 09.lcd	STD 6	STD 6	148.303	-----	2.794	322197	-----	56878	35.093	36.342	0	-----
+10	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 10.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+11	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 11.lcd	QCLOW	QCLOW	5.193	-----	2.801	7878	-----	1214	16.466	13.826	0	-----
+12	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 12.lcd	QCHIGH	QCHIGH	23.073	-----	2.799	40758	-----	6835	24.574	23.061	0	-----
+13	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 13.lcd	1	2228401569	24.082	-----	2.805	53170	-----	10110	30.779	28.680	0	-----
+14	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 14.lcd	2	2228401571	19.046	-----	2.799	48973	-----	8885	28.876	29.293	0	-----
+15	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 15.lcd	3	2228401573	24.726	-----	2.801	57962	-----	10519	34.109	32.375	0	-----
+16	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 16.lcd	4	2228401578	15.154	-----	2.800	38699	-----	6997	28.378	27.424	0	-----
+17	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 17.lcd	5	2228401582	16.875	-----	2.798	44168	-----	7948	31.539	28.780	0	-----
+18	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 18.lcd	6	2228401584	25.917	-----	2.797	62305	-----	11132	31.247	30.463	0	-----
+19	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 19.lcd	7	2228401596	19.450	-----	2.794	46865	-----	8392	27.196	27.983	0	-----
+20	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 20.lcd	8	2228401597	13.780	-----	2.795	36673	-----	6587	21.496	20.885	0	-----
+21	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 21.lcd	9	2228401718	14.958	-----	2.795	32188	-----	5794	28.475	25.837	0	-----
+22	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 22.lcd	10	2228401789	10.365	-----	2.797	25912	-----	4654	22.897	20.997	0	-----
+23	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 23.lcd	11	2228401795	11.179	-----	2.796	26859	-----	4813	25.733	23.798	0	-----
+24	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 24.lcd	12	2228401807	16.021	-----	2.795	42555	-----	7623	30.913	29.390	0	-----
+25	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 25.lcd	13	2228401830	25.656	-----	2.797	54384	-----	9821	33.290	30.502	0	-----
+26	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 26.lcd	14	2228401851	14.075	-----	2.799	36430	-----	6564	22.666	21.518	0	-----
+27	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 27.lcd	15	2228401898	17.631	-----	2.797	43819	-----	7907	32.334	29.810	0	-----
+28	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 28.lcd	16	2228401949	14.952	-----	2.795	37326	-----	6722	27.828	25.124	0	-----
+29	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 29.lcd	17	2228402138	14.773	-----	2.796	36838	-----	6618	28.365	25.978	0	-----
+30	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 30.lcd	18	2228402143	21.388	-----	2.798	54807	-----	10000	23.989	22.953	0	-----
+31	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 31.lcd	19	2228402168	16.450	-----	2.797	25242	-----	4547	29.997	27.664	0	-----
+32	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 32.lcd	20	2228402336	17.856	-----	2.795	40716	-----	7301	25.392	25.904	0	-----
+33	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 33.lcd	21	2228402344	10.965	-----	2.795	24526	-----	4383	25.393	25.268	0	-----
+34	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 34.lcd	22	2228402361	7.749	-----	2.796	20278	-----	3654	24.153	22.892	0	-----
+35	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 35.lcd	23	2228402466	13.117	-----	2.796	34004	-----	6117	25.812	23.675	0	-----
+36	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 36.lcd	24	2228402550	15.403	-----	2.800	35831	-----	6512	24.248	22.903	0	-----
+37	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 37.lcd	25	2228402566	15.104	-----	2.801	34523	-----	6276	33.293	30.433	0	-----
+38	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 38.lcd	26	2228402583	14.313	-----	2.794	34075	-----	6107	30.551	28.277	0	-----
+39	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 39.lcd	27	2228402599	16.395	-----	2.798	44824	-----	8076	30.006	28.158	0	-----
+40	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 40.lcd	28	2228500436	13.739	-----	2.798	33119	-----	5984	31.849	30.335	0	-----
+41	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 41.lcd	29	2228500504	18.160	-----	2.795	44894	-----	8084	38.805	35.410	0	-----
+42	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 42.lcd	30	2228500517	14.519	-----	2.793	35671	-----	6397	32.174	29.905	0	-----
+43	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 43.lcd	31	2228500552	9.420	-----	2.795	25155	-----	4512	21.650	21.644	0	-----
+44	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 44.lcd	32	2228500563	17.876	-----	2.796	44335	-----	7950	28.473	27.425	0	-----
+45	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 45.lcd	33	2228500587	9.451	-----	2.796	21904	-----	3928	23.327	21.773	0	-----
+46	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 46.lcd	34	2228500614	16.412	-----	2.794	44375	-----	8065	26.045	24.663	0	-----
+47	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 47.lcd	35	2228500685	15.062	-----	2.800	35458	-----	6414	31.521	29.319	0	-----
+48	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 48.lcd	36	2228500801	12.433	-----	2.800	33213	-----	6125	20.519	18.266	0	-----
+49	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 49.lcd	37	2228500811	10.889	-----	2.797	27032	-----	4927	23.924	21.688	0	-----
+50	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 50.lcd	38	2228500818	11.746	-----	2.795	28404	-----	5141	21.130	19.530	0	-----
+51	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 51.lcd	39	2228500834	9.013	-----	2.797	23683	-----	4271	20.754	18.654	0	-----
+52	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 52.lcd	40	2228500837	22.533	-----	2.797	48432	-----	8888	26.281	23.368	0	-----
+53	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 53.lcd	41	2228500900	14.599	-----	2.795	38431	-----	6873	27.512	25.569	0	-----
+54	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 54.lcd	42	2228501094	20.491	-----	2.801	46952	-----	8773	34.169	30.366	0	-----
+55	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 55.lcd	43	2228501168	9.387	-----	2.795	22336	-----	3989	25.904	23.389	0	-----
+56	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 56.lcd	44	2228501172	26.970	-----	2.797	67912	-----	12472	43.303	40.115	0	-----
+57	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 57.lcd	45	2228501196	19.203	-----	2.793	47326	-----	8488	35.027	32.288	0	-----
+58	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 58.lcd	46	2228501588	18.596	-----	2.796	43117	-----	7732	24.900	24.441	0	-----
+59	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 59.lcd	47	2228501609	24.243	-----	2.800	59030	-----	10921	27.435	25.477	0	-----
+60	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 60.lcd	48	2228501613	11.635	-----	2.801	29760	-----	5414	26.809	24.539	0	-----
+61	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 61.lcd	49	2228501651	13.463	-----	2.796	34321	-----	6175	23.184	20.470	0	-----
+62	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 62.lcd	50	2228501678	11.397	-----	2.796	26898	-----	4843	21.655	19.759	0	-----
+63	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 63.lcd	51	2228501689	27.662	-----	2.794	66696	-----	11916	28.070	25.348	0	-----
+64	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 64.lcd	52	2228501720	13.346	-----	2.794	24332	-----	4370	28.288	25.859	0	-----
+65	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 65.lcd	53	2228501732	11.988	-----	2.796	26590	-----	4805	28.980	26.539	0	-----
+66	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 66.lcd	54	2228501746	33.365	-----	2.797	80709	-----	14541	35.578	33.005	0	-----
+67	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 67.lcd	55	2228501791	13.839	-----	2.795	35867	-----	6422	22.914	21.267	0	-----
+68	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 68.lcd	56	2228501844	14.328	-----	2.794	36103	-----	6454	19.114	18.775	0	-----
+69	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 69.lcd	57	2228501913	18.807	-----	2.797	35937	-----	6608	29.097	26.298	0	-----
+70	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 70.lcd	58	2228501933	13.768	-----	2.795	32150	-----	5729	21.865	22.669	0	-----
+71	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 71.lcd	59	2228501940	33.447	-----	2.798	78771	-----	14225	32.529	32.711	0	-----
+72	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 72.lcd	60	2228502058	14.454	-----	2.795	38016	-----	6788	15.124	15.743	0	-----
+73	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 73.lcd	61	2228502139	13.945	-----	2.795	36342	-----	6535	14.257	17.078	0	-----
+74	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 74.lcd	62	2228502226	15.630	-----	2.796	36548	-----	6608	28.017	26.165	0	-----
+75	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 75.lcd	63	2228502341	20.282	-----	2.796	39155	-----	7061	29.267	27.451	0	-----
+76	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 76.lcd	64	2228502501	18.463	-----	2.801	36204	-----	6594	27.694	26.774	0	-----
+77	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 77.lcd	65	2228502512	20.125	-----	2.798	42692	-----	7702	20.712	20.619	0	-----
+78	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 78.lcd	66	2228502620	14.444	-----	2.796	31841	-----	5741	24.530	21.954	0	-----
+79	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 79.lcd	67	2228502661	31.990	-----	2.797	69680	-----	12573	35.677	33.016	0	-----
+80	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 80.lcd	68	2228502722	13.165	-----	2.800	23841	-----	4353	24.814	23.479	0	-----
+81	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 81.lcd	69	2228502730	13.540	-----	2.796	31463	-----	5704	22.915	21.936	0	-----
+82	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 82.lcd	70	2228600177	17.127	-----	2.794	40081	-----	7285	33.071	30.097	0	-----
+83	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 83.lcd	71	2228600291	16.246	-----	2.797	31167	-----	5703	35.130	32.338	0	-----
+84	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 84.lcd	72	2228600300	15.452	-----	2.797	31824	-----	5801	37.816	35.739	0	-----
+85	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 85.lcd	QCLOW	QCLOW	4.987	-----	2.798	8541	-----	1301	15.763	13.464	0	-----
+86	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 86.lcd	QCHIGH	QCHIGH	23.203	-----	2.798	43375	-----	7261	24.782	23.143	0	-----
+87	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 87.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+88	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 04.lcd	STD 1	STD 1	0.967	1	2.797	1812	96.7	317	5.641	5.074	1	*
+89	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 05.lcd	STD 2	STD 2	4.635	5	2.793	7223	92.7	1272	17.004	16.355	2	*
+90	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 06.lcd	STD 3	STD 3	14.991	15	2.797	26205	99.9	4652	26.655	26.762	3	*
+91	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 07.lcd	STD 4	STD 4	26.594	25	2.796	45099	106.4	7977	29.781	30.335	4	*
+92	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 08.lcd	STD 5	STD 5	78.347	75	2.793	137086	104.5	24647	34.293	35.002	5	*
+93	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 09.lcd	STD 6	STD 6	120.466	125	2.795	248214	96.4	49393	32.923	35.462	6	*
+
+ID#	4
+Name	Beta Carotene
+	Data Filename	Sample Name	Sample ID	Conc.	Std. Conc.	Ret. Time	Area	Accuracy[%]	Height	Area%	Height%	Level#	Cal. Point
+1	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 01.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+2	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 02.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+3	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 03.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+4	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 04.lcd	STD 1	STD 1	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+5	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 05.lcd	STD 2	STD 2	12.874	-----	5.127	6960	-----	808	15.629	9.789	0	-----
+6	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 06.lcd	STD 3	STD 3	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+7	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 07.lcd	STD 4	STD 4	64.489	-----	5.125	37920	-----	4305	27.643	18.033	0	-----
+8	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 08.lcd	STD 5	STD 5	222.161	-----	5.122	149295	-----	16827	30.535	20.183	0	-----
+9	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 09.lcd	STD 6	STD 6	400.987	-----	5.122	283323	-----	31961	30.859	20.421	0	-----
+10	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 10.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+11	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 11.lcd	QCLOW	QCLOW	16.944	-----	5.128	8359	-----	852	17.472	9.695	0	-----
+12	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 12.lcd	QCHIGH	QCHIGH	68.138	-----	5.127	39145	-----	4512	23.601	15.223	0	-----
+13	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 13.lcd	1	2228401569	31.611	-----	5.137	22699	-----	2907	13.140	8.247	0	-----
+14	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 14.lcd	2	2228401571	56.284	-----	5.128	47068	-----	5623	27.753	18.540	0	-----
+15	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 15.lcd	3	2228401573	33.210	-----	5.133	25319	-----	3140	14.899	9.664	0	-----
+16	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 16.lcd	4	2228401578	31.750	-----	5.134	26370	-----	3338	19.337	13.084	0	-----
+17	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 17.lcd	5	2228401582	9.054	-----	5.133	7707	-----	955	5.504	3.456	0	-----
+18	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 18.lcd	6	2228401584	61.987	-----	5.131	48464	-----	6121	24.305	16.751	0	-----
+19	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 19.lcd	7	2228401596	71.896	-----	5.127	56340	-----	7017	32.695	23.398	0	-----
+20	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 20.lcd	8	2228401597	44.574	-----	5.129	38579	-----	4630	22.613	14.682	0	-----
+21	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 21.lcd	9	2228401718	6.984	-----	5.127	4888	-----	612	4.324	2.730	0	-----
+22	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 22.lcd	10	2228401789	13.039	-----	5.128	10602	-----	1385	9.368	6.247	0	-----
+23	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 23.lcd	11	2228401795	11.516	-----	5.126	8998	-----	1087	8.621	5.376	0	-----
+24	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 24.lcd	12	2228401807	22.064	-----	5.123	19060	-----	2339	13.846	9.020	0	-----
+25	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 25.lcd	13	2228401830	20.136	-----	5.129	13882	-----	1752	8.498	5.442	0	-----
+26	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 26.lcd	14	2228401851	37.942	-----	5.134	31938	-----	4084	19.871	13.388	0	-----
+27	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 27.lcd	15	2228401898	11.960	-----	5.130	9667	-----	1178	7.133	4.440	0	-----
+28	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 28.lcd	16	2228401949	7.645	-----	5.126	6207	-----	760	4.627	2.839	0	-----
+29	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 29.lcd	17	2228402138	12.403	-----	5.129	10058	-----	1209	7.745	4.746	0	-----
+30	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 30.lcd	18	2228402143	47.955	-----	5.131	39964	-----	4903	17.492	11.253	0	-----
+31	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 31.lcd	19	2228402168	13.403	-----	5.131	6689	-----	822	7.949	4.999	0	-----
+32	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 32.lcd	20	2228402336	61.668	-----	5.126	45733	-----	5358	28.521	19.012	0	-----
+33	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 33.lcd	21	2228402344	31.928	-----	5.125	23226	-----	2859	24.047	16.485	0	-----
+34	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 34.lcd	22	2228402361	12.001	-----	5.126	10214	-----	1218	12.165	7.629	0	-----
+35	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 35.lcd	23	2228402466	13.003	-----	5.128	10963	-----	1325	8.322	5.128	0	-----
+36	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 36.lcd	24	2228402550	30.043	-----	5.131	22729	-----	2776	15.381	9.764	0	-----
+37	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 37.lcd	25	2228402566	4.363	-----	5.132	3244	-----	379	3.128	1.836	0	-----
+38	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 38.lcd	26	2228402583	13.388	-----	5.125	10366	-----	1305	9.294	6.042	0	-----
+39	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 39.lcd	27	2228402599	20.382	-----	5.130	18123	-----	2276	12.132	7.933	0	-----
+40	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 40.lcd	28	2228500436	17.436	-----	5.130	13669	-----	1735	13.145	8.795	0	-----
+41	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 41.lcd	29	2228500504	1.490	-----	5.126	1198	-----	145	1.035	0.636	0	-----
+42	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 42.lcd	30	2228500517	11.714	-----	5.124	9360	-----	1132	8.442	5.293	0	-----
+43	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 43.lcd	31	2228500552	35.817	-----	5.126	31105	-----	3866	26.770	18.546	0	-----
+44	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 44.lcd	32	2228500563	35.598	-----	5.128	28713	-----	3519	18.440	12.141	0	-----
+45	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 45.lcd	33	2228500587	18.228	-----	5.127	13739	-----	1755	14.632	9.731	0	-----
+46	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 46.lcd	34	2228500614	28.188	-----	5.124	24787	-----	3118	14.548	9.534	0	-----
+47	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 47.lcd	35	2228500685	12.253	-----	5.132	9381	-----	1110	8.340	5.076	0	-----
+48	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 48.lcd	36	2228500801	3.754	-----	5.131	3261	-----	402	2.015	1.200	0	-----
+49	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 49.lcd	37	2228500811	4.644	-----	5.130	3749	-----	421	3.318	1.855	0	-----
+50	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 50.lcd	38	2228500818	19.179	-----	5.125	15083	-----	1860	11.221	7.068	0	-----
+51	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 51.lcd	39	2228500834	7.794	-----	5.127	6661	-----	858	5.837	3.746	0	-----
+52	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 52.lcd	40	2228500837	3.366	-----	5.129	2353	-----	270	1.277	0.710	0	-----
+53	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 53.lcd	41	2228500900	18.527	-----	5.126	15862	-----	1907	11.355	7.094	0	-----
+54	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 54.lcd	42	2228501094	13.468	-----	5.134	10036	-----	1277	7.304	4.419	0	-----
+55	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 55.lcd	43	2228501168	3.199	-----	5.122	2475	-----	288	2.871	1.689	0	-----
+56	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 56.lcd	44	2228501172	2.182	-----	5.125	1787	-----	208	1.139	0.670	0	-----
+57	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 57.lcd	45	2228501196	9.854	-----	5.123	7898	-----	975	5.846	3.710	0	-----
+58	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 58.lcd	46	2228501588	59.124	-----	5.125	44584	-----	5449	25.746	17.222	0	-----
+59	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 59.lcd	47	2228501609	39.561	-----	5.130	31327	-----	4100	14.560	9.565	0	-----
+60	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 60.lcd	48	2228501613	5.718	-----	5.131	4757	-----	595	4.285	2.697	0	-----
+61	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 61.lcd	49	2228501651	2.046	-----	5.122	1696	-----	199	1.146	0.661	0	-----
+62	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 62.lcd	50	2228501678	14.208	-----	5.127	10906	-----	1347	8.780	5.496	0	-----
+63	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 63.lcd	51	2228501689	20.248	-----	5.124	15877	-----	1912	6.682	4.066	0	-----
+64	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 64.lcd	52	2228501720	8.214	-----	5.124	4871	-----	599	5.663	3.546	0	-----
+65	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 65.lcd	53	2228501732	7.917	-----	5.125	5711	-----	697	6.225	3.850	0	-----
+66	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 66.lcd	54	2228501746	28.569	-----	5.128	22475	-----	2684	9.908	6.093	0	-----
+67	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 67.lcd	55	2228501791	26.028	-----	5.125	21938	-----	2745	14.015	9.091	0	-----
+68	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 68.lcd	56	2228501844	64.328	-----	5.123	52715	-----	6354	27.908	18.485	0	-----
+69	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 69.lcd	57	2228501913	4.878	-----	5.128	3031	-----	373	2.454	1.486	0	-----
+70	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 70.lcd	58	2228501933	70.187	-----	5.126	53302	-----	6470	36.251	25.601	0	-----
+71	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 71.lcd	59	2228501940	82.336	-----	5.127	63063	-----	7541	26.043	17.342	0	-----
+72	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 72.lcd	60	2228502058	126.793	-----	5.125	108454	-----	13816	43.145	32.043	0	-----
+73	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 73.lcd	61	2228502139	175.927	-----	5.127	149113	-----	17127	58.497	44.757	0	-----
+74	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 74.lcd	62	2228502226	20.963	-----	5.125	15941	-----	1953	12.220	7.734	0	-----
+75	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 75.lcd	63	2228502341	28.061	-----	5.124	17618	-----	2169	13.169	8.432	0	-----
+76	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 76.lcd	64	2228502501	41.557	-----	5.131	26502	-----	3292	20.273	13.369	0	-----
+77	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 77.lcd	65	2228502512	89.566	-----	5.129	61793	-----	7569	29.978	20.263	0	-----
+78	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 78.lcd	66	2228502620	7.621	-----	5.125	5464	-----	663	4.209	2.537	0	-----
+79	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 79.lcd	67	2228502661	24.907	-----	5.127	17644	-----	2095	9.034	5.500	0	-----
+80	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 80.lcd	68	2228502722	23.673	-----	5.131	13942	-----	1762	14.511	9.505	0	-----
+81	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 81.lcd	69	2228502730	33.430	-----	5.126	25263	-----	3085	18.399	11.864	0	-----
+82	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 82.lcd	70	2228600177	3.354	-----	5.125	2553	-----	300	2.107	1.239	0	-----
+83	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 83.lcd	71	2228600291	3.612	-----	5.130	2254	-----	257	2.540	1.460	0	-----
+84	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 84.lcd	72	2228600300	10.046	-----	5.126	6729	-----	850	7.995	5.235	0	-----
+85	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 85.lcd	QCLOW	QCLOW	16.966	-----	5.124	9451	-----	939	17.442	9.721	0	-----
+86	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 86.lcd	QCHIGH	QCHIGH	68.317	-----	5.125	41535	-----	4837	23.730	15.419	0	-----
+87	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221018 FSV Patient Samples 87.lcd	Blank	Blank	-----	-----	-----	-----	-----	-----	-----	-----	0	-----
+88	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 04.lcd	STD 1	STD 1	2.379	3	5.114	1450	79.3	160	4.513	2.556	1	*
+89	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 05.lcd	STD 2	STD 2	13.559	15	5.121	6872	90.4	754	16.178	9.690	2	*
+90	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 06.lcd	STD 3	STD 3	42.935	45	5.125	24410	95.4	2746	24.829	15.796	3	*
+91	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 07.lcd	STD 4	STD 4	76.431	75	5.124	42153	101.9	4726	27.835	17.975	4	*
+92	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 08.lcd	STD 5	STD 5	220.454	225	5.119	125449	98.0	13967	31.383	19.835	5	*
+93	C:\LabSolutions\Data\Fat Soluble Vitamins\Patient Sample\2022\September\20221011 FSV Patient Samples 09.lcd	STD 6	STD 6	382.241	375	5.122	256139	101.9	28652	33.974	20.571	6	*
+
