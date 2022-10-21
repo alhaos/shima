@@ -1,0 +1,289 @@
+Accession,TestName,TestResult
+2228401569,Retinol,102.714
+2228401571,Retinol,49.643
+2228401573,Retinol,78.688
+2228401578,Retinol,47.263
+2228401582,Retinol,67.294
+2228401584,Retinol,78.349
+2228401596,Retinol,49.918
+2228401597,Retinol,74.743
+2228401718,Retinol,72.911
+2228401789,Retinol,56.786
+2228401795,Retinol,49.342
+2228401807,Retinol,49.727
+2228401830,Retinol,106.133
+2228401851,Retinol,74.235
+2228401898,Retinol,64.933
+2228401949,Retinol,76.356
+2228402138,Retinol,65.871
+2228402143,Retinol,131.539
+2228402168,Retinol,68.491
+2228402336,Retinol,62.858
+2228402344,Retinol,26.104
+2228402361,Retinol,21.239
+2228402466,Retinol,66.557
+2228402550,Retinol,83.504
+2228402566,Retinol,50.468
+2228402583,Retinol,48.177
+2228402599,Retinol,60.101
+2228500436,Retinol,32.692
+2228500504,Retinol,48.070
+2228500517,Retinol,43.364
+2228500552,Retinol,28.232
+2228500563,Retinol,66.058
+2228500587,Retinol,37.587
+2228500614,Retinol,80.317
+2228500685,Retinol,50.100
+2228500801,Retinol,113.353
+2228500811,Retinol,65.317
+2228500818,Retinol,80.916
+2228500834,Retinol,61.019
+2228500837,Retinol,166.065
+2228500900,Retinol,62.960
+2228501094,Retinol,72.204
+2228501168,Retinol,39.933
+2228501172,Retinol,70.483
+2228501196,Retinol,62.880
+2228501588,Retinol,78.325
+2228501609,Retinol,128.355
+2228501613,Retinol,54.159
+2228501651,Retinol,102.938
+2228501678,Retinol,77.465
+2228501689,Retinol,173.670
+2228501720,Retinol,58.522
+2228501732,Retinol,43.380
+2228501746,Retinol,127.885
+2228501791,Retinol,82.611
+2228501844,Retinol,88.242
+2228501913,Retinol,103.986
+2228501933,Retinol,41.887
+2228501940,Retinol,98.262
+2228502058,Retinol,88.837
+2228502139,Retinol,42.846
+2228502226,Retinol,66.098
+2228502341,Retinol,88.863
+2228502501,Retinol,70.781
+2228502512,Retinol,116.736
+2228502620,Retinol,96.053
+2228502661,Retinol,122.513
+2228502722,Retinol,62.102
+2228502730,Retinol,70.741
+2228600177,Retinol,66.896
+2228600291,Retinol,50.403
+2228600300,Retinol,27.185
+2228401569,Internal Standard,0.000
+2228401571,Internal Standard,0.000
+2228401573,Internal Standard,0.000
+2228401578,Internal Standard,0.000
+2228401582,Internal Standard,0.000
+2228401584,Internal Standard,0.000
+2228401596,Internal Standard,0.000
+2228401597,Internal Standard,0.000
+2228401718,Internal Standard,0.000
+2228401789,Internal Standard,0.000
+2228401795,Internal Standard,0.000
+2228401807,Internal Standard,0.000
+2228401830,Internal Standard,0.000
+2228401851,Internal Standard,0.000
+2228401898,Internal Standard,0.000
+2228401949,Internal Standard,0.000
+2228402138,Internal Standard,0.000
+2228402143,Internal Standard,0.000
+2228402168,Internal Standard,0.000
+2228402336,Internal Standard,0.000
+2228402344,Internal Standard,0.000
+2228402361,Internal Standard,0.000
+2228402466,Internal Standard,0.000
+2228402550,Internal Standard,0.000
+2228402566,Internal Standard,0.000
+2228402583,Internal Standard,0.000
+2228402599,Internal Standard,0.000
+2228500436,Internal Standard,0.000
+2228500504,Internal Standard,0.000
+2228500517,Internal Standard,0.000
+2228500552,Internal Standard,0.000
+2228500563,Internal Standard,0.000
+2228500587,Internal Standard,0.000
+2228500614,Internal Standard,0.000
+2228500685,Internal Standard,0.000
+2228500801,Internal Standard,0.000
+2228500811,Internal Standard,0.000
+2228500818,Internal Standard,0.000
+2228500834,Internal Standard,0.000
+2228500837,Internal Standard,0.000
+2228500900,Internal Standard,0.000
+2228501094,Internal Standard,0.000
+2228501168,Internal Standard,0.000
+2228501172,Internal Standard,0.000
+2228501196,Internal Standard,0.000
+2228501588,Internal Standard,0.000
+2228501609,Internal Standard,0.000
+2228501613,Internal Standard,0.000
+2228501651,Internal Standard,0.000
+2228501678,Internal Standard,0.000
+2228501689,Internal Standard,0.000
+2228501720,Internal Standard,0.000
+2228501732,Internal Standard,0.000
+2228501746,Internal Standard,0.000
+2228501791,Internal Standard,0.000
+2228501844,Internal Standard,0.000
+2228501913,Internal Standard,0.000
+2228501933,Internal Standard,0.000
+2228501940,Internal Standard,0.000
+2228502058,Internal Standard,0.000
+2228502139,Internal Standard,0.000
+2228502226,Internal Standard,0.000
+2228502341,Internal Standard,0.000
+2228502501,Internal Standard,0.000
+2228502512,Internal Standard,0.000
+2228502620,Internal Standard,0.000
+2228502661,Internal Standard,0.000
+2228502722,Internal Standard,0.000
+2228502730,Internal Standard,0.000
+2228600177,Internal Standard,0.000
+2228600291,Internal Standard,0.000
+2228600300,Internal Standard,0.000
+2228401569,Alpha Tocopherol,24.082
+2228401571,Alpha Tocopherol,19.046
+2228401573,Alpha Tocopherol,24.726
+2228401578,Alpha Tocopherol,15.154
+2228401582,Alpha Tocopherol,16.875
+2228401584,Alpha Tocopherol,25.917
+2228401596,Alpha Tocopherol,19.450
+2228401597,Alpha Tocopherol,13.780
+2228401718,Alpha Tocopherol,14.958
+2228401789,Alpha Tocopherol,10.365
+2228401795,Alpha Tocopherol,11.179
+2228401807,Alpha Tocopherol,16.021
+2228401830,Alpha Tocopherol,25.656
+2228401851,Alpha Tocopherol,14.075
+2228401898,Alpha Tocopherol,17.631
+2228401949,Alpha Tocopherol,14.952
+2228402138,Alpha Tocopherol,14.773
+2228402143,Alpha Tocopherol,21.388
+2228402168,Alpha Tocopherol,16.450
+2228402336,Alpha Tocopherol,17.856
+2228402344,Alpha Tocopherol,10.965
+2228402361,Alpha Tocopherol,7.749
+2228402466,Alpha Tocopherol,13.117
+2228402550,Alpha Tocopherol,15.403
+2228402566,Alpha Tocopherol,15.104
+2228402583,Alpha Tocopherol,14.313
+2228402599,Alpha Tocopherol,16.395
+2228500436,Alpha Tocopherol,13.739
+2228500504,Alpha Tocopherol,18.160
+2228500517,Alpha Tocopherol,14.519
+2228500552,Alpha Tocopherol,9.420
+2228500563,Alpha Tocopherol,17.876
+2228500587,Alpha Tocopherol,9.451
+2228500614,Alpha Tocopherol,16.412
+2228500685,Alpha Tocopherol,15.062
+2228500801,Alpha Tocopherol,12.433
+2228500811,Alpha Tocopherol,10.889
+2228500818,Alpha Tocopherol,11.746
+2228500834,Alpha Tocopherol,9.013
+2228500837,Alpha Tocopherol,22.533
+2228500900,Alpha Tocopherol,14.599
+2228501094,Alpha Tocopherol,20.491
+2228501168,Alpha Tocopherol,9.387
+2228501172,Alpha Tocopherol,26.970
+2228501196,Alpha Tocopherol,19.203
+2228501588,Alpha Tocopherol,18.596
+2228501609,Alpha Tocopherol,24.243
+2228501613,Alpha Tocopherol,11.635
+2228501651,Alpha Tocopherol,13.463
+2228501678,Alpha Tocopherol,11.397
+2228501689,Alpha Tocopherol,27.662
+2228501720,Alpha Tocopherol,13.346
+2228501732,Alpha Tocopherol,11.988
+2228501746,Alpha Tocopherol,33.365
+2228501791,Alpha Tocopherol,13.839
+2228501844,Alpha Tocopherol,14.328
+2228501913,Alpha Tocopherol,18.807
+2228501933,Alpha Tocopherol,13.768
+2228501940,Alpha Tocopherol,33.447
+2228502058,Alpha Tocopherol,14.454
+2228502139,Alpha Tocopherol,13.945
+2228502226,Alpha Tocopherol,15.630
+2228502341,Alpha Tocopherol,20.282
+2228502501,Alpha Tocopherol,18.463
+2228502512,Alpha Tocopherol,20.125
+2228502620,Alpha Tocopherol,14.444
+2228502661,Alpha Tocopherol,31.990
+2228502722,Alpha Tocopherol,13.165
+2228502730,Alpha Tocopherol,13.540
+2228600177,Alpha Tocopherol,17.127
+2228600291,Alpha Tocopherol,16.246
+2228600300,Alpha Tocopherol,15.452
+2228401569,Beta Carotene,31.611
+2228401571,Beta Carotene,56.284
+2228401573,Beta Carotene,33.210
+2228401578,Beta Carotene,31.750
+2228401582,Beta Carotene,9.054
+2228401584,Beta Carotene,61.987
+2228401596,Beta Carotene,71.896
+2228401597,Beta Carotene,44.574
+2228401718,Beta Carotene,6.984
+2228401789,Beta Carotene,13.039
+2228401795,Beta Carotene,11.516
+2228401807,Beta Carotene,22.064
+2228401830,Beta Carotene,20.136
+2228401851,Beta Carotene,37.942
+2228401898,Beta Carotene,11.960
+2228401949,Beta Carotene,7.645
+2228402138,Beta Carotene,12.403
+2228402143,Beta Carotene,47.955
+2228402168,Beta Carotene,13.403
+2228402336,Beta Carotene,61.668
+2228402344,Beta Carotene,31.928
+2228402361,Beta Carotene,12.001
+2228402466,Beta Carotene,13.003
+2228402550,Beta Carotene,30.043
+2228402566,Beta Carotene,4.363
+2228402583,Beta Carotene,13.388
+2228402599,Beta Carotene,20.382
+2228500436,Beta Carotene,17.436
+2228500504,Beta Carotene,1.490
+2228500517,Beta Carotene,11.714
+2228500552,Beta Carotene,35.817
+2228500563,Beta Carotene,35.598
+2228500587,Beta Carotene,18.228
+2228500614,Beta Carotene,28.188
+2228500685,Beta Carotene,12.253
+2228500801,Beta Carotene,3.754
+2228500811,Beta Carotene,4.644
+2228500818,Beta Carotene,19.179
+2228500834,Beta Carotene,7.794
+2228500837,Beta Carotene,3.366
+2228500900,Beta Carotene,18.527
+2228501094,Beta Carotene,13.468
+2228501168,Beta Carotene,3.199
+2228501172,Beta Carotene,2.182
+2228501196,Beta Carotene,9.854
+2228501588,Beta Carotene,59.124
+2228501609,Beta Carotene,39.561
+2228501613,Beta Carotene,5.718
+2228501651,Beta Carotene,2.046
+2228501678,Beta Carotene,14.208
+2228501689,Beta Carotene,20.248
+2228501720,Beta Carotene,8.214
+2228501732,Beta Carotene,7.917
+2228501746,Beta Carotene,28.569
+2228501791,Beta Carotene,26.028
+2228501844,Beta Carotene,64.328
+2228501913,Beta Carotene,4.878
+2228501933,Beta Carotene,70.187
+2228501940,Beta Carotene,82.336
+2228502058,Beta Carotene,126.793
+2228502139,Beta Carotene,175.927
+2228502226,Beta Carotene,20.963
+2228502341,Beta Carotene,28.061
+2228502501,Beta Carotene,41.557
+2228502512,Beta Carotene,89.566
+2228502620,Beta Carotene,7.621
+2228502661,Beta Carotene,24.907
+2228502722,Beta Carotene,23.673
+2228502730,Beta Carotene,33.430
+2228600177,Beta Carotene,3.354
+2228600291,Beta Carotene,3.612
+2228600300,Beta Carotene,10.046

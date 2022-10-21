@@ -1,0 +1,13 @@
+2022-10-21 19:01:58.5304|INFO|logger|Shima session started
+2022-10-21 19:03:17.0433|INFO|logger|Shima session started
+2022-10-21 19:04:44.2760|INFO|logger|Shima session started
+2022-10-21 19:05:37.2983|INFO|logger|Shima session started
+2022-10-21 19:05:37.4934|INFO|logger|Shima file .\paths\Source\20221019 Retinol.txt export to file .\paths\OutDirectory\r_20221019 Retinol.txt
+2022-10-21 19:05:37.4934|INFO|logger|Shima session finished
+2022-10-21 19:06:49.3661|INFO|logger|Shima session started
+2022-10-21 19:06:49.4526|INFO|logger|Shima file .\paths\Source\20221019 Retinol.txt export to file .\paths\OutDirectory\r_20221019 Retinol.txt
+2022-10-21 19:06:49.4526|INFO|logger|Shima session finished
+2022-10-21 19:09:56.3351|INFO|logger|Shima session started
+2022-10-21 19:09:56.4302|INFO|logger|Shima file .\paths\Source\20221019 Retinol.txt export to file .\paths\OutDirectory\r_20221019 Retinol.txt
+2022-10-21 19:09:56.4302|INFO|logger|Shima file .\paths\Source\20221019 Retinol.txt archived to file .\paths\ArchiveDirectory\20221019 Retinol.txt
+2022-10-21 19:09:56.4302|INFO|logger|Shima session finished
